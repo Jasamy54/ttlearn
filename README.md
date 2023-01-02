@@ -1,4 +1,4 @@
-<img width="508" alt="image" src="https://user-images.githubusercontent.com/94574322/210263073-0ce1f09d-e20b-418c-9cb3-bdb0991f562d.png">
+<img width="467" alt="image" src="https://user-images.githubusercontent.com/94574322/210263241-6d3140e8-c703-4972-b844-de1cd049fefd.png">
 
 Performance 79
 Accessibility 100
