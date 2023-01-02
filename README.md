@@ -1,3 +1,29 @@
+<img width="508" alt="image" src="https://user-images.githubusercontent.com/94574322/210263073-0ce1f09d-e20b-418c-9cb3-bdb0991f562d.png">
+
+Performance 79
+Accessibility 100
+Best Practices 100
+SEO 100
+
+First Contentful Paint
+0.2 s
+First Contentful Paint marks the time at which the first text or image is painted. Learn more.
+Time to Interactive
+1.0 s
+Time to interactive is the amount of time it takes for the page to become fully interactive. Learn more.
+Speed Index
+0.5 s
+Speed Index shows how quickly the contents of a page are visibly populated. Learn more.
+Total Blocking Time
+180 ms
+Sum of all time periods between FCP and Time to Interactive, when task length exceeded 50ms, expressed in milliseconds. Learn more.
+Largest Contentful Paint
+1.0 s
+Largest Contentful Paint marks the time at which the largest text or image is painted. Learn more
+Cumulative Layout Shift
+0.829
+Cumulative Layout Shift measures the movement of visible elements within the viewport. Learn more.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
